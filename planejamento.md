@@ -1,6 +1,8 @@
 <h2 align="center">Planejamento das Atividades :memo:</h2>
 
 <p align="center">
+  <h3>Layout</h3>
+  <img src="https://github.com/Diana-ops/amoplantas/blob/master/layoutcomponents.png" width="300">
   <h3>Lengenda</h3>
   <img src="https://github.com/Diana-ops/amoplantas/blob/master/legenda.png" width="200"/>
 <p>
