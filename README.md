@@ -30,13 +30,13 @@
 
 ## Planejamento 
 
-> Tasks, Layout, TDD e [muito mais]()
+> Tasks, Layout, TDD e [muito mais](https://github.com/Diana-ops/amoplantas/blob/master/planejamento.md)
 
 ## Funcionalidades
 
 :heavy_check_mark: Layout Responsivo  
 
-:heavy_check_mark: Utiliza o método GET para consumir uma API com as informações de cada tipo de planta
+:heavy_check_mark: Utiliza o método GET para consumir uma [API](https://6nrr6n9l50.execute-api.us-east-1.amazonaws.com/default/front-plantTest-service?sun=high&water=rarely&pets=false) com as informações de cada tipo de planta
 
 :heavy_check_mark: Utiliza o método POST para enviar os dados do usuário após o preenchimento do formulário
 
@@ -59,7 +59,7 @@
 No terminal, clone o projeto: 
 
 ```
-git clone 
+git clone https://github.com/Diana-ops/amoplantas
 ```
 Acesse o diretório
 
@@ -89,7 +89,15 @@ $ yarn test
 ## API
 
 ```javascript
-
+{
+ id: 1,
+ name: "Euphorbia eritrea",
+ sun: "high",
+ water: "rarely",
+ url: "https://front-static-recruitment.s3.amazonaws.com/euphorbia-eritrea.jpg",
+ price: 25,
+ toxicity: false
+}
 ```
 
 ## Linguagens, dependencias e libs utilizadas
@@ -98,12 +106,12 @@ $ yarn test
 
 :books: [React Routes](https://react-pdf.org/)
 
-:books: [Styled Component]()
+:books: [Styled Component](https://styled-components.com/)
 
-:books: [Redux]()
+:books: [Redux](https://redux.js.org/)
 
 ## Resolvendo Problemas :exclamation:
 
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
+Em [issues](https://github.com/Diana-ops/amoplantas/issues) foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
 
 ## Tarefas em Aberto/Possíveis Contribuições 
