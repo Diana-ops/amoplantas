@@ -14,17 +14,17 @@
 </p>
   <h3 align="center">Layout Mobile</h3>
 <p align="center">
-  <img src="https://github.com/Diana-ops/amoplantas/blob/master/layout/mobileLayout.png" width="300">
+  <img src="https://github.com/Diana-ops/amoplantas/blob/master/layout/mobileLayout.png" width="500">
 </p>
   <h3 align="center">Escolhas</h3>
 <p align="center">
-  <img src="https://github.com/Diana-ops/amoplantas/blob/master/layout/choices.png" width="300">
+  <img src="https://github.com/Diana-ops/amoplantas/blob/master/layout/choices.png" width="500">
 </p>
   <h3 align="center">Recomendações</h3>
 <p align="center">
-  <img src="https://github.com/Diana-ops/amoplantas/blob/master/layout/plants.png" width="300">
+  <img src="https://github.com/Diana-ops/amoplantas/blob/master/layout/plants.png" width="500">
 </p>
   <h3 align="center">Ao escolher</h3>
 <p align="center">
-  <img src="https://github.com/Diana-ops/amoplantas/blob/master/layout/send.png" width="300">
+  <img src="https://github.com/Diana-ops/amoplantas/blob/master/layout/send.png" width="500">
 </p>
