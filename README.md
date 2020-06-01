@@ -28,7 +28,7 @@
   Aplicação frontend para recomendação de tipos de plantas baseado em fatores como <strong>incidência de raios solares, frequência de chuva e presença de pets na residência.</strong> Assim que o usuário apresentar suas escolhas, uma lista com vários tipos de plantas estarão disponíveis de acordo com que foi escolhido. Ao escolher um tipo, um formulário deverá ser preenchido para envio de mais informações por e-mail.
 </p>
 
-## Planejamento 
+## Planejamento :memo:
 
 > Tasks, Layout, TDD e [muito mais](https://github.com/Diana-ops/amoplantas/blob/master/planejamento.md)
 
